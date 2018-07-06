@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "203394327525",
+    "firebase_url": "https://fir-590fa.firebaseio.com",
+    "project_id": "fir-590fa",
+    "storage_bucket": "fir-590fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203394327525:android:43f68cf51771a839",
+        "android_client_info": {
+          "package_name": "mensajes.team.mx.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203394327525-39psqhoqt72s5jr3h2e5amnjsfop5aoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11OL7OM0zYHRmoDzHunBXeu4NbdyGDo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
